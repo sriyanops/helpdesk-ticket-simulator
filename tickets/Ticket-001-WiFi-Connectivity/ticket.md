@@ -39,7 +39,8 @@
 - Relevant logs:
 1. [`ipconfig_before.txt`](./evidence/logs/ipconfig_before.txt)
 2. [`ping_ip_success.txt`](./evidence/logs/ping_ip_success.txt)
-3. [`nslookup_failure.txt`](./evidence/logs/nslookup_failure.txt)  
+3. [`nslookup_failure.txt`](./evidence/logs/nslookup_failure.txt)
+4. [`dns_fixed.txt`](./evidence/logs/dns_fixed.txt)
 
 ## Resolution
 - Root cause: Root cause: Wi-Fi adapter was manually configured with an invalid DNS server (`1.1.1.99`)
