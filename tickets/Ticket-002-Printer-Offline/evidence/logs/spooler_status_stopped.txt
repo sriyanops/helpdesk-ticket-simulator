@@ -1,0 +1,3 @@
+Name      : Spooler
+Status    : Stopped
+StartType : Automatic
