@@ -1,0 +1,18 @@
+Windows IP Configuration
+
+Successfully flushed the DNS Resolver Cache.
+Server:  dns-cac-lb-03.charter.com
+Address:  209.18.47.63
+
+Non-authoritative answer:
+Name:    google.com
+Addresses:  2607:f8b0:4004:c25::64
+          2607:f8b0:4004:c25::65
+          2607:f8b0:4004:c25::8a
+          2607:f8b0:4004:c25::8b
+          192.178.218.138
+          192.178.218.139
+          192.178.218.102
+          192.178.218.113
+          192.178.218.101
+          192.178.218.100
